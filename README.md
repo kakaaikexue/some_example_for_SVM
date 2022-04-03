@@ -1,0 +1,2 @@
+# some_example_for_SVM
+这是用于学习关于支持向量机的repo，利用SVM求解一些基本的分类问题
